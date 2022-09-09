@@ -9,7 +9,7 @@ myWindow.document.write("<p>YOU HAVE A VIRUS PLEASE CALL US AT 1-800-288-4653</p
 
 </script>
 </head>
-<body onmouseover="openWin()">
+<body onmousemove="openWin()">
 
 </body>
 </html>
